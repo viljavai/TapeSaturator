@@ -1,0 +1,5 @@
+**/Builds
+**/JUCE
+**/JuceLibraryCode
+**/.vscode
+*.code-workspace
